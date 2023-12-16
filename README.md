@@ -20,7 +20,8 @@ End the program
 import numpy as np
 a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 b=np.linalg.inv(a)
-print(b)```
+print(b)
+```
 ## Output:
 ![Screenshot 2023-12-16 230116](https://github.com/veerargavanv27/INVERSE-OF-A-MATRIX/assets/138955645/990eb3d5-1990-4841-bcb3-aab35db44698)
 
